@@ -68,6 +68,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## 🙏 Acknowledgements
+by_vbs🙃
 
 - [Sentence-Transformers](https://www.sbert.net/)
 - [Hugging Face](https://huggingface.co/)
