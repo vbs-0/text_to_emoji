@@ -27,7 +27,7 @@ Enhance your digital communication with AI-powered emoji suggestions! This proje
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/text_to_emoji.git
+   git clone https://github.com/vbs-0/text_to_emoji.git
    cd text_to_emoji
    ```
 
@@ -61,7 +61,7 @@ Enhance your digital communication with AI-powered emoji suggestions! This proje
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/text_to_emoji/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/vbs-0/text_to_emoji.git/issues).
 
 ## 📄 License
 
