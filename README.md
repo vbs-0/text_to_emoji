@@ -61,7 +61,7 @@ Enhance your digital communication with AI-powered emoji suggestions! This proje
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/vbs-0/text_to_emoji.git/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/vbs-0/text_to_emoji/issues).
 
 ## 📄 License
 
