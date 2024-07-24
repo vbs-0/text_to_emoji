@@ -8,7 +8,7 @@ Enhance your digital communication with AI-powered emoji suggestions! This proje
 - Predicts most relevant emojis for input text
 - Supports multiple languages
 - Includes training script for model fine-tuning
-
+ 
 ## 🛠 Technology Stack
 
 - Python 3.7+
